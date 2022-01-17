@@ -60,5 +60,6 @@ function draw(){
     log5.display();
 
     bird.display();
-    platform.display();
+    plataform.display();
+	//comentario pra ver que deu certo eeeeeeee
 }
